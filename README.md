@@ -1,2 +1,1 @@
-# coderlimjingcheng.github.io
-Welcome to my portfolio
+Lim Jing Cheng's Portfolio
