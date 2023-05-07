@@ -1,0 +1,17 @@
+nav {
+	background-color: #B3B3B3;
+	text-align: center;
+	font-size: 15px;
+}
+
+section.intro {
+	background-color: #F2F2F2;
+}
+
+section.pro {
+	border: 1px solid #000000;
+}
+
+section.connect a {
+	color: #000000;
+}
